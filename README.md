@@ -1,2 +1,2 @@
 # hello-world
-Learning git basics
+This is my first commit on github
